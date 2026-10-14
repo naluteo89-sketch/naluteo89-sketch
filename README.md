@@ -18,6 +18,7 @@ LLM이 숫자·기간을 지어내는 문제를 **코드 규칙과 테스트**�
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 **Backend**  
@@ -35,6 +36,10 @@ LLM이 숫자·기간을 지어내는 문제를 **코드 규칙과 테스트**�
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=flat-square)
 
+**Tools & Version Control**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git GUI](https://img.shields.io/badge/Git_GUI-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 ## 📂 Projects
