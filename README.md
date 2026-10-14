@@ -54,4 +54,4 @@ LLM이 숫자·기간을 지어내는 문제를 **코드 규칙과 테스트**�
 ---
 
 ## 📫 Contact
-- Email: ㅇnaluteo89@gmail.com
+- Email: naluteo89@gmail.com
