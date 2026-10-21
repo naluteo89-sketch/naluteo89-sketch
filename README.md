@@ -82,4 +82,4 @@ Unity 그림판에서 그린 그림을 생성형 AI로 실크로드 회화풍 �
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: naluteo89@gmail.com
