@@ -8,7 +8,7 @@
 부동산 시세 챗봇에서는 이 방식으로 **답변 정확도를 80%에서 100%로** 높였습니다.  
 서비스를 공개한 뒤에도 문제를 찾아 개선하고, 그 과정을 버전별로 기록하고 있습니다.
 
-### 📂 [Notion 포트폴리오](https://pretty-cilantro-cc6.notion.site/3cd651db82fb801392cff0e96b79994c) — 프로젝트별 상세 기록과 학습 일지(TIL)
+### 📂 [Notion 포트폴리오]([https://pretty-cilantro-cc6.notion.site/3cd651db82fb801392cff0e96b79994c](https://app.notion.com/p/kimdaun98y/AI-3cd651db82fb801392cff0e96b79994c) — 프로젝트별 상세 기록과 학습 일지(TIL)
 ---
 
 ## 📂 프로젝트 한눈에 보기
