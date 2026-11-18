@@ -132,7 +132,7 @@
 
 </details>
 
-### 📰 [news_Moa](https://github.com/naluteo89-sketch/news_Moa) — 네이버 뉴스 논조 분석 서비스 `2026.10`
+### 📰 [news_Moa](https://github.com/naluteo89-sketch/news_Moa) — 네이버 뉴스 감성·키워드 분석 서비스 `2026.10`
 
 > 뉴스 검색 결과를 모아 기사별 **긍정·부정 분위기, 핵심 키워드, 핵심 문장**을 한눈에 보여 주는 웹 서비스
 
@@ -152,7 +152,7 @@
 
 </details>
 
-### 🥽 [Pano360 Studio](https://github.com/naluteo89-sketch/co_show_2026) — CO-SHOW 2026 전시용 360° VR 콘텐츠 제작 도구 `2026.10 · 1차 완료`
+### 🥽 [Pano360](https://github.com/naluteo89-sketch/co_show_2026) — CO-SHOW 2026 전시용 360° VR 콘텐츠 제작 도구 `2026.10 · 1차 완료`
 
 > 사진 한 장으로 **VR 기기(Meta Quest 3)에서 볼 수 있는 360° 이미지와 영상**을 만드는 웹 제작 도구와 VR 뷰어
 
@@ -210,7 +210,7 @@
 
 </details>
 
-### 🐫 [Silkroad](https://github.com/naluteo89-sketch/silkroad) — 실크로드 그림 공방 (문화 XR 체험 콘텐츠) `2026.10`
+### 🐫 [Silkroad](https://github.com/naluteo89-sketch/Silkroad) — 실크로드 그림 공방 (문화 XR 체험 콘텐츠) `2026.10`
 
 > 태블릿 그림판에 그린 그림을 생성형 AI가 **실크로드 회화풍 작품으로 바꿔 주는** 체험 콘텐츠
 
