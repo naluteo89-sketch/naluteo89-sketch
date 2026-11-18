@@ -17,25 +17,24 @@
 | 프로젝트 | 무엇을 만들었나 | 핵심 성과 |
 |---|---|---|
 | 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) `진행 중` | 유튜브 리뷰 영상 속 상품을 모아 보여 주는 쇼핑몰 (웹 + 앱) | 영상 2,488개에서 상품 13,709개 자동 수집, 목록 10.7MB → 116KB |
-| 🕷️ 스마트 크롤러 | 클릭 한 번으로 웹 데이터를 모으는 Chrome 확장 + 크롤러 | 수천 건이어도 AI 호출 1~2회 |
+| 🎬 [5·18 인서트컷](https://kimdaun98y.notion.site/415651db82fb81e0a09ac7adc62003b8) `회사 업무` `진행 중` | 4K 영상에서 학생만 지운 빈 교실 영상 | 8,362프레임 일치, 깜빡임 0.138 → 0.116, 칠판 글씨 원본 유지 |
 | 🧴 [뷰티 AI 플랫폼](https://kimdaun98y.notion.site/40d651db82fb814484c2d8554f49d0e4) `회사 업무` | 피부 분석·화장품 라벨 인식 AI API 2종 | 잡티 판정 일치도 0.55 → 0.78, 비용 1/20 |
-| 🎬 [5·18 인서트컷](https://kimdaun98y.notion.site/415651db82fb81e0a09ac7adc62003b8) `회사 업무` | 4K 영상에서 학생만 지운 빈 교실 영상 | 깜빡임 0.138 → 0.116, 칠판 글씨 원본 유지 |
-| 📰 [news_Moa](https://github.com/naluteo89-sketch/news_Moa) | 네이버 뉴스 논조 분석 서비스 | 페이지당 AI 호출 1회 |
-| 🥽 [Pano360 Studio](https://github.com/naluteo89-sketch/co_show_2026) | 사진 한 장으로 만드는 360° VR 콘텐츠 | 8K(8192×4096) 360° 이미지 |
 | 🏠 [BuBot](https://github.com/naluteo89-sketch/BuBot) ⭐ | 근거와 출처를 보여 주는 아파트 매매가 챗봇 | 정확도 80% → 100%, 자동 테스트 191개 |
-| 📸 [ImgPls](https://github.com/naluteo89-sketch/ImgPls) | AI 사진 합성 키오스크 | 클라우드 전환, API 테스트 10종 |
-| 🐫 [Silkroad](https://github.com/naluteo89-sketch/silkroad) | 그림을 실크로드 회화풍으로 바꾸는 XR 체험 | 서버 없이 검증하는 더미 모드 |
+| 📰 [news_Moa](https://github.com/naluteo89-sketch/news_Moa) | 네이버 뉴스 감성·키워드 분석 서비스 | 페이지당 AI 호출 1번, 본문 추출 7/7 |
+| 🥽 [Pano360](https://github.com/naluteo89-sketch/co_show_2026) | 사진 한 장으로 만드는 Quest 3용 8K 360° 이미지 | 8192×4096, 이음새 색 차이 4.5배 → 1.23배 |
+| 🐫 [Silkroad](https://github.com/naluteo89-sketch/Silkroad) | 직접 그린 그림을 실크로드 회화풍으로 바꾸는 XR 체험 | 6단계 체험 흐름, 서버 없이 검증하는 더미 모드 |
+| 📸 [ImgPls](https://github.com/naluteo89-sketch/ImgPls) | 인물 사진을 새 배경에 합성해 QR로 전달하는 키오스크 | 클라우드 전환, API 테스트 10종 |
+| 🕷️ [스마트 크롤러](https://github.com/naluteo89-sketch/smart-crawler-extension) | 클릭 한 번으로 웹 데이터를 모으는 Chrome 확장 + 크롤러 | 수천 건이어도 AI 호출 1~2회 |
 
 ---
 
-## 📌 핵심 역량
+## 💪 강점
 
-| 역량 | 내용 |
+| 강점 | 내용 |
 |---|---|
-| **신뢰할 수 있는 AI 서비스 설계** | 계산·판정처럼 정확해야 하는 일은 코드가, 설명·요약은 AI가 맡도록 역할을 나눠 AI의 오답(환각)을 줄입니다 |
-| **데이터로 판단하는 개발** | 평가 문항과 자동 테스트를 먼저 만들고, 공개 정답 데이터와 비교해 개선 여부를 수치로 확인합니다 |
-| **비용과 운영을 고려한 구조** | AI 호출 횟수를 줄이고, 장비 장애에도 서비스가 멈추지 않도록 클라우드로 전환하는 등 실제 운영 환경을 고려합니다 |
-| **기획부터 완성까지** | 문제 정의 → 기획 → 개발 → 테스트 → 문서화까지 직접 진행합니다 |
+| **이전 경험을 통한 빠른 설계** | 비슷한 프로젝트는 이전 경험을 살린 안정적이고 빠른 설계로 하루 만에 제작합니다. BuBot에서 검증한 ‘코드가 계산, LLM은 해석’ 구조를 뷰티 AI 점수 서버에 재사용했습니다 |
+| **새로운 기술 적용** | 처음 다루는 모델·플랫폼도 직접 비교·측정해 실제 결과물까지 연결합니다. FLUX.2로 Quest 3용 8K 360° 이미지, 4K 배경판 합성 8,362프레임, 웹 + Android 앱을 만들었습니다 |
+| **유지보수** | 테스트를 먼저 갖춰 두고 고쳐, 기존 기능을 깨지 않고 구조와 성능을 바꿉니다. BuBot 테스트 191개, ImgPls 클라우드 전환·API 테스트 10종, 목록 10.7MB → 116KB |
 
 ---
 
