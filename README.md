@@ -8,7 +8,7 @@
 부동산 시세 챗봇에서는 이 방식으로 **답변 정확도를 80%에서 100%로** 높였습니다.  
 서비스를 공개한 뒤에도 문제를 찾아 개선하고, 그 과정을 버전별로 기록하고 있습니다.
 
-### 📂 [Notion 포트폴리오](https://pretty-cilantro-cc6.notion.site/3cd651db82fb801392cff0e96b79994c](https://app.notion.com/p/kimdaun98y/AI-3cd651db82fb801392cff0e96b79994c) — 프로젝트별 상세 기록과 학습 일지(TIL)
+### 📂 [Notion 포트폴리오](https://kimdaun98y.notion.site/3cd651db82fb801392cff0e96b79994c](https://app.notion.com/p/kimdaun98y/AI-3cd651db82fb801392cff0e96b79994c) — 프로젝트별 상세 기록과 학습 일지(TIL)
 ---
 
 ## 📂 프로젝트 한눈에 보기
@@ -17,8 +17,8 @@
 |---|---|---|
 | 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) `진행 중` | 유튜브 리뷰 영상 속 상품을 모아 보여 주는 쇼핑몰 (웹 + 앱) | 영상 2,488개에서 상품 13,709개 자동 수집, 목록 10.7MB → 116KB |
 | 🕷️ 스마트 크롤러 | 클릭 한 번으로 웹 데이터를 모으는 Chrome 확장 + 크롤러 | 수천 건이어도 AI 호출 1~2회 |
-| 🧴 [뷰티 AI 플랫폼](https://pretty-cilantro-cc6.notion.site/40d651db82fb814484c2d8554f49d0e4) `회사 업무` | 피부 분석·화장품 라벨 인식 AI API 2종 | 잡티 판정 일치도 0.55 → 0.78, 비용 1/20 |
-| 🎬 [5·18 인서트컷](https://pretty-cilantro-cc6.notion.site/415651db82fb81e0a09ac7adc62003b8) `회사 업무` | 4K 영상에서 학생만 지운 빈 교실 영상 | 깜빡임 0.138 → 0.116, 칠판 글씨 원본 유지 |
+| 🧴 [뷰티 AI 플랫폼](https://kimdaun98y.notion.site/40d651db82fb814484c2d8554f49d0e4) `회사 업무` | 피부 분석·화장품 라벨 인식 AI API 2종 | 잡티 판정 일치도 0.55 → 0.78, 비용 1/20 |
+| 🎬 [5·18 인서트컷](https://kimdaun98y.notion.site/415651db82fb81e0a09ac7adc62003b8) `회사 업무` | 4K 영상에서 학생만 지운 빈 교실 영상 | 깜빡임 0.138 → 0.116, 칠판 글씨 원본 유지 |
 | 📰 [news_Moa](https://github.com/naluteo89-sketch/news_Moa) | 네이버 뉴스 논조 분석 서비스 | 페이지당 AI 호출 1회 |
 | 🥽 [Pano360 Studio](https://github.com/naluteo89-sketch/co_show_2026) | 사진 한 장으로 만드는 360° VR 콘텐츠 | 8K(8192×4096) 360° 이미지 |
 | 🏠 [BuBot](https://github.com/naluteo89-sketch/BuBot) ⭐ | 근거와 출처를 보여 주는 아파트 매매가 챗봇 | 정확도 80% → 100%, 자동 테스트 191개 |
@@ -71,7 +71,7 @@
   - 전체 상품을 한 번에 내려받던 목록을 서버에서 40개씩 나눠 보내도록 바꿔 **페이지 크기를 10.7MB에서 116KB로** 줄였습니다.
   - 로그인은 서버 세션과 CSRF 검사를 적용하고, 실패 문구로 가입 여부가 드러나지 않게 했습니다.
 - **사용 기술**: Next.js 15, Spring Boot 3.5(Java 21), MySQL 8, YouTube Data API, Android(Kotlin, Jetpack Compose)  
-- **상세 기록**: [Notion 프로젝트 페이지](https://pretty-cilantro-cc6.notion.site/415651db82fb8199af20cb5a4e5b2c1e)
+- **상세 기록**: [Notion 프로젝트 페이지](https://kimdaun98y.notion.site/415651db82fb8199af20cb5a4e5b2c1e)
 
 </details>
 
@@ -94,7 +94,7 @@
 
 </details>
 
-### 🧴 [뷰티 AI 플랫폼 — AI 분석 파트](https://pretty-cilantro-cc6.notion.site/40d651db82fb814484c2d8554f49d0e4) `2026.10 ~ 11 · 회사 업무`
+### 🧴 [뷰티 AI 플랫폼 — AI 분석 파트](https://kimdaun98y.notion.site/40d651db82fb814484c2d8554f49d0e4) `2026.10 ~ 11 · 회사 업무`
 
 > 셀피로 **피부 상태를 점수화**하고 화장품 라벨 사진에서 **전성분을 읽어 내는** AI 분석 API 2종 (기관·업체명 비공개, 코드는 비공개 저장소)
 
@@ -113,7 +113,7 @@
 
 </details>
 
-### 🎬 [5·18 인서트컷 — 4K 영상 편집](https://pretty-cilantro-cc6.notion.site/415651db82fb81e0a09ac7adc62003b8) `2026.10 ~ · 회사 업무`
+### 🎬 [5·18 인서트컷 — 4K 영상 편집](https://kimdaun98y.notion.site/415651db82fb81e0a09ac7adc62003b8) `2026.10 ~ · 회사 업무`
 
 > 교실 장면의 학생이 AR 캐릭터로 바뀌는 장면을 위해, **4K 원본에서 학생만 지운 빈 교실 영상**을 만드는 작업 (발주처·원본 비공개)
 
@@ -279,4 +279,4 @@
 
 ## 📫 연락처
 - 이메일: naluteo89@gmail.com
-- 포트폴리오: [Notion 포트폴리오](https://pretty-cilantro-cc6.notion.site/3cd651db82fb801392cff0e96b79994c)
+- 포트폴리오: [Notion 포트폴리오](https://kimdaun98y.notion.site/3cd651db82fb801392cff0e96b79994c)
