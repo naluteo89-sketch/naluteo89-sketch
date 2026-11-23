@@ -149,7 +149,11 @@ Open **Details** under each project for the background and how I solved it.
   - The LLM only reports what it sees per face zone; **scores and pass/caution decisions are computed by server rules**.
   - Compared against expert ratings for 107 people in a public dataset (AI Hub) and raised blemish rank correlation from **0.55 to 0.78**.
   - Compared models on the same validation set and cut **analysis cost to 1/20**; label ingredients were read **29 out of 29** on public samples.
-- **Tech**: Python, Flask, OpenAI (vision), OpenCV, MediaPipe, AI Hub public data
+- **Maintenance after close (Nov 19–23)**
+  - Switched the label OCR helper from EasyOCR to PaddleOCR: dictionary-matched ingredients went from **8 to 364**, and time per image from 17.1 s to 3.7 s.
+  - Added a concurrency cap with an immediate 503 (`Retry-After`) to the API: median response at 40 concurrent requests went from 29.6 s to 14.2 s, and batch analysis in the research web became **4.45–5.76×** faster.
+  - Connected the in-house local LLM (vLLM) and cross-checked it against the current model on 100 face and 100 label images: **the same accuracy** against ground truth at zero cost, but about 5× slower, so it will be swapped in after recalibrating score tables and prompts.
+- **Tech**: Python, Flask, OpenAI (vision), OpenCV, MediaPipe, PaddleOCR, vLLM (local LLM), AI Hub public data
 
 </details>
 
