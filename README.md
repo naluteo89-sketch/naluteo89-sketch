@@ -54,7 +54,7 @@
 
 각 프로젝트의 **자세히 보기**를 누르면 기획 배경과 해결 과정이 펼쳐집니다.
 
-### 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) — 유튜브 리뷰 영상 쇼핑몰 `2026.11 · 진행 중` · [🔗 데모](https://youhowmuch.beefalo-tiaki.ts.net/)
+### 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store_demo) — 유튜브 리뷰 영상 쇼핑몰 `2026.11 · 진행 중` · [🔗 데모](https://youhowmuch.beefalo-tiaki.ts.net/)
 
 > 유튜브 리뷰 영상에 나온 상품을 자동으로 모아, **영상과 상품을 한 화면에서 보고 바로 담는** 쇼핑몰 (웹 + 안드로이드 앱)
 
