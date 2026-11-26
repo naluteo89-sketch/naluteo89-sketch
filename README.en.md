@@ -16,7 +16,7 @@ and I keep fixing issues after release, **logging every version**.
 
 | Project | What it is | Key result |
 |---|---|---|
-| 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) `In progress` | A shop built around products shown in YouTube review videos (web + app) | 13,709 products collected from 2,488 videos, list page 10.7MB → 116KB |
+| 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) `In progress` · [🔗 Live demo](https://youhowmuch.beefalo-tiaki.ts.net/) | A shop built around products shown in YouTube review videos (web + app) | 13,709 products collected from 2,488 videos, list page 10.7MB → 116KB |
 | 🎬 [5·18 Insert Cut](https://kimdaun98y.notion.site/415651db82fb81e0a09ac7adc62003b8) `Work` `In progress` | Empty-classroom 4K footage with the student removed | 8,362 frames matched, flicker 0.138 → 0.116, blackboard kept pixel-identical |
 | 🧴 [Beauty AI Platform](https://kimdaun98y.notion.site/40d651db82fb814484c2d8554f49d0e4) `Work` | Two AI APIs for skin analysis and cosmetic label reading | Blemish agreement (rank correlation) 0.55 → 0.78, cost cut to 1/20 |
 | 🏠 [BuBot](https://github.com/naluteo89-sketch/BuBot) ⭐ | Apartment price chatbot that shows its sources | Accuracy 80% → 100%, 191 automated tests |
@@ -100,7 +100,7 @@ and I keep fixing issues after release, **logging every version**.
 
 Open **Details** under each project for the background and how I solved it.
 
-### 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) · YouTube Review Video Shop `In progress · 2026.11`
+### 🛍️ [you_HOWMUCH](https://github.com/naluteo89-sketch/I_sell_a_store) · YouTube Review Video Shop `In progress · 2026.11` · [🔗 Live demo](https://youhowmuch.beefalo-tiaki.ts.net/)
 
 > A shop that automatically collects the products shown in YouTube review videos, so you can **watch the review and add the product to your cart on one screen** (web + Android app)
 
